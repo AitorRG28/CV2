@@ -1,0 +1,42 @@
+.TopDiv{
+  background-color: #F5F5F5 ;
+  position: relative;
+  padding-top:50px;
+}
+.Icons{
+
+  align-items: center;
+  margin: 0 auto 0 auto;
+  padding: 50px;
+}
+body{
+  text-align: center;
+  margin:0;
+  /* https://www.cssfontstack.com
+   fonts.google.com*/
+  }
+  h1{
+    width: 10%;
+    margin: 0 auto 0 auto;
+  }
+.MiddleDiv{
+  background-color:#03989E ;
+  text-align: left;
+}
+.BottomDiv{
+  background-color:#30475E ;
+}
+.ProfileIcon{
+  position:relative;
+  margin-right:10px;
+
+}
+.StudyIcon{
+  position:relative;
+  margin-right:20px;
+}
+.ProjectIcon{
+  position:relative;
+  margin-right:10px;
+}
+/* icons to use https://www.flaticon.com/  and giphy.com*/
